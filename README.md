@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/vksteven12" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="vksteven12" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/stiven-espinosa-zapata-1207a015a/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Stiven Espinosa Zapata" height="30" width="40" /></a>
-<a href="https://instagram.com/steven5ez" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="steven5ez" height="30" width="40" /></a>
-<a href="https://medium.com/@stivenbergbau" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="@stivenbergbau" height="30" width="40" /></a>
+<a href="https://instagram.com/steven5ez" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619309058~hmac=1b28201e6aeae7374a762b565148b94f" alt="steven5ez" height="30" width="40" /></a>
+<a href="https://medium.com/@stivenbergbau" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/2111/2111543.png" alt="@stivenbergbau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
