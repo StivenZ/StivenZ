@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vksteven12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vksteven12" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/stiven-espinosa-zapata-1207a015a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Stiven Espinosa Zapata" height="30" width="40" /></a>
+<a href="https://twitter.com/vksteven12" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="vksteven12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stiven-espinosa-zapata-1207a015a/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Stiven Espinosa Zapata" height="30" width="40" /></a>
 <a href="https://instagram.com/steven5ez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="steven5ez" height="30" width="40" /></a>
 <a href="https://medium.com/@stivenbergbau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@stivenbergbau" height="30" width="40" /></a>
 </p>
