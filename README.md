@@ -19,4 +19,4 @@ I'm a passionate about integrating mathematics, computing and modeling to develo
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stivenz&show_icons=true&locale=en&layout=compact" alt="stivenz" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stivenz&show_icons=true&locale=en" alt="stivenz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stivenz&theme=nord&show_icons=true" alt="stivenz" /></p>
