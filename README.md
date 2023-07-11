@@ -6,7 +6,7 @@ I'm a passionate about integrating mathematics, computing and modeling to develo
 
 <p align="left"> <a href="https://twitter.com/vksteven12" target="blank"><img src="https://img.shields.io/twitter/follow/vksteven12?logo=twitter&style=for-the-badge" alt="vksteven12" /></a> </p>
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
