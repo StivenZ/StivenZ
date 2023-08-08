@@ -1,4 +1,4 @@
-<h1 align="left">Sofware Engineer</h1>
+<h1 align="left">Software Engineer</h1>
 <h3 align="left">I began developing ore grinding models for mining devices design, and tunnel temperature modeling with Python.
 I have solid experience in web development, frontend and backend, focused on scalability. Looking forward to be an important team member to build, grow, and maintain efficient software as a professional goal. 
 I'm a passionate about integrating mathematics, computing and modeling to develop creative tools.
